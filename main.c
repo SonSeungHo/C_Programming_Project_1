@@ -52,7 +52,7 @@ int main(void)
 	return 0;
 	}
 
-	// 인자로 받은 값으로 연산자별로 계산하여 리턴 값으로 반환해준
+	// 인자로 받은 값으로 연산자별로 계산하여 리턴 값으로 반환해준다
 	double calculating(double a1, double b1, int op)
 	{
 	double rs;
